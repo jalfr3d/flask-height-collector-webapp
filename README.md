@@ -61,3 +61,7 @@ Before using this web app, make sure you have the following Python libraries and
 - This web app can be expanded with additional features, such as user authentication, improved data visualization, or data export functionality.
 
 That's it! Enjoy using the Height Collector Web App to collect and share data with users in a convenient and user-friendly way.
+
+### License
+This project is licensed under the MIT License. You are free to use and modify the code for your own purposes.
+
